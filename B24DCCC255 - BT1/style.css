@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  border: 2px solid black;
+  margin: 10px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px 10px;
+}
